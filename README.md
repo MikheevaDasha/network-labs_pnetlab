@@ -6,14 +6,14 @@
 *Итоговая топология всех 6 лабораторных работ*
 
 ## Лабораторные работы
-№ | Тема
----------------------------------------------------------------------
-1 | VLAN (Access/Trunk), VTP, DHCP-сервер, Router-on-a-Stick
-2 | Статическая маршрутизация, Linux-серверы
-3 | Динамическая маршрутизация RIP и OSPF
-4 | eBGP, iBGP с Route Reflector
-5 | SSH-доступ ко всем устройствам, настройка NAT (выход в Интернет)
-6 | Access Control Lists (ACL) — фильтрация трафика между VLAN
+| № | Тема |
+|---|------|
+| 1 | [VLAN (Access/Trunk), VTP, DHCP-сервер, Router-on-a-Stick](./lab-01-vlan-vtp-dhcp.pdf) |
+| 2 | [Статическая маршрутизация](./lab-02-static-routing.pdf) |
+| 3 | [Динамическая маршрутизация RIP и OSPF](./lab-03-rip-ospf.pdf) |
+| 4 | [eBGP, iBGP с Route Reflector](./lab-04-ibgp-ebgp.pdf) |
+| 5 | [SSH-доступ, настройка NAT (выход в Интернет)](./lab-05-ssh-nat.pdf) |
+| 6 | [Access Control Lists — фильтрация трафика](./lab-06-acl-filtering.pdf) |
 
 ## Полученные навыки
 ### 1. Сегментирование сети (VLAN) и безопасное управление
